@@ -33,4 +33,4 @@ class TestMultiply:
         assert multiply(5, 0) == 0
 
     def test_multiply_negative(self):
-        assert multiply(-6, -2) == 999
+        assert multiply(-6, -2) == 12
